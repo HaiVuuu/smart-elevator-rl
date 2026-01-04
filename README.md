@@ -30,7 +30,7 @@ The environment supports both single-agent (controlling all elevators) and multi
 ### 2. Setup
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/HaiVuuu/smart-elevator-rl
     ```
 
 2.  **Create and activate a virtual environment:**
