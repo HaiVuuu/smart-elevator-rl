@@ -1,0 +1,14 @@
+# Loosely pinned versions based on original dependency files
+# to ensure compatibility while allowing pip some flexibility.
+
+# Pinned ray and gymnasium to a known compatible pair
+ray[rllib]==2.51.1
+gymnasium==1.1.1
+
+# Pinning other major libraries from the original files
+pettingzoo==1.25.0
+stable-baselines3
+torch==2.3.0
+numpy==1.26.4
+pygame==2.6.1
+matplotlib
