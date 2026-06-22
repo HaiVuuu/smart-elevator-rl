@@ -1,0 +1,4 @@
+# MARL-specific dependencies are already included in ../requirements.txt
+# This file is kept for reference and consistency.
+# To install dependencies, run from the project root:
+#   pip install -r requirements.txt
